@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the ever to be lamented death of the most magnanimous and illustrious prince, Charles Leopold Duke of Lorraine, general of the imperial army; who died suddenly, April the eighth 1690</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04629</idno>
+            <idno type="OCLC"> 18463421</idno>
+            <idno type="STC">Wing O313</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[190]</idno>
+            <idno type="EEBO-CITATION">99890548</idno>
+            <idno type="PROQUEST">ocm99890548</idno>
+            <idno type="VID">181513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181513)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[191])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the ever to be lamented death of the most magnanimous and illustrious prince, Charles Leopold Duke of Lorraine, general of the imperial army; who died suddenly, April the eighth 1690</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin in the Old-Bailey.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Heark! heark! What dismal Noise is this I hear?".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles, --  Duke of Lorraine, 1643-1690 --  Poetry --  Early works to 1800.</term>
+               <term>Holy Roman Empire --  History --  Leopold I, 1658-1705 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Bailey.</hi> 1690.</p>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:181513:1" rendition="simple:additions"/>
+                  <head>On the Ever to be Lamented Death of the Moſt MAGNANIMOUS and ILLUSTRIOUS PRINCE, CHARLES LEOPOLD DUKE of LORRAINE, General of the Imperial Army; Who Died ſuddenly, <hi>April</hi> the Eighth 1690</head>
+                  <lg>
+                     <l>HEark! heark! What diſmal Noiſe is this I hear?</l>
+                     <l>What mournful <hi>Clangor</hi> is't doth pierce mine Ear?</l>
+                     <l>
+                        <hi>Fame,</hi> who had all her Trumpets taught to ſound</l>
+                     <l>Her General's Praiſe, with which the Air around</l>
+                     <l>The ſpacious Globe ſo often did rebound;</l>
+                     <l>Who'd learnt the Joyful <hi>Echo</hi>'s to repeat</l>
+                     <l>The Mighty Vict'ries of <hi>Lorrain</hi> the Great,</l>
+                     <l>And had inſtructed every Charming Grove</l>
+                     <l>To ſing his Conqueſts, 'ſtead of ſofter Love;</l>
+                     <l>Had gather'd all her Breath, loud to proclaim</l>
+                     <l>Th' approaching Triumphs of the next Campaine:</l>
+                     <l>'S if Thunder-ſtruck! at once her Pipes are mute,</l>
+                     <l>The merry Haut-boys, and ſhrill-throated Flute,</l>
+                     <l>The Stately Kettle, and Reviving Drum,</l>
+                     <l>Th' Harmonious Trumpet, All, at once, are Dumb!</l>
+                     <l>Dumb! to thoſe Notes which Martial Heat did ſtir,</l>
+                     <l>And all their Levets chang'd to mournful <hi>Murr:</hi>
+                     </l>
+                     <l>Aſtoniſh't <hi>Hero</hi>'s drop their ſinking Arms,</l>
+                     <l>And <hi>Europe</hi> ſtaggers at the dread Alarms.</l>
+                     <l>The Glorious <hi>LORRAINE,</hi> Theme of all their Praiſe!</l>
+                     <l>The Glorious <hi>LORRAINE,</hi> who to Life could raiſe</l>
+                     <l>A Sinking Empire; To Freſh Youth reſtore</l>
+                     <l>The <hi>Roman Eagle,</hi> almoſt ſpent before;</l>
+                     <l>The Glorious <hi>LORRAINE</hi> did her Strength renew,</l>
+                     <l>Warm'd with <hi>His</hi> Heat, <hi>She</hi> to freſh Vict'ries flew;</l>
+                     <l>Eclipſt the <hi>Turkiſh Moon</hi> by Her high Flight,</l>
+                     <l>And with her <hi>Sable Plumes</hi> obſcur'd her <hi>Borrow'd Light.</hi>
+                     </l>
+                     <l>Arm'd with <hi>His</hi> Courage, <hi>She</hi> whole <hi>Regions</hi> tore</l>
+                     <l>From the Proud <hi>Sultan;</hi> forc'd him to reſtore</l>
+                     <l>Her <hi>Ravag'd Cities</hi> to her Ancient Sway:</l>
+                     <l>Made trembling <hi>Baſhaws</hi> her Great <hi>Chief</hi> obey,</l>
+                     <l>As if New Conqueſts grew with every Day.</l>
+                     <l>The Glorious <hi>LORRAINE</hi> taught th' <hi>Imperial</hi> Arms</l>
+                     <l>To baffle Fate; Before him flew whole Swarms</l>
+                     <l>Of Haughty Infidels, who oppos'd in vain</l>
+                     <l>That <hi>Arm</hi> which ſow'd whole Countries with <hi>their</hi> Slain.</l>
+                     <l>But who th' Immortal Laurel ſhall transfer</l>
+                     <l>From <hi>Buda</hi>'s Walls, to grace <hi>His</hi> Sepulcher?</l>
+                     <l>
+                        <hi>Buda!</hi> That ſingle Word ſums all Renown;</l>
+                     <l>A Matchleſs <hi>Baſhaw,</hi> and a Matchleſs <hi>Town;</hi>
+                     </l>
+                     <l>Riſe, Mighty <hi>Waller,</hi> Right the <hi>Heroe</hi> here,</l>
+                     <l>The Theme's too Great for my poor Muſe to bear.</l>
+                     <l>He that Great <hi>LORRAINE</hi>'s Vict'ries would rehearſe,</l>
+                     <l>Muſt fill vaſt Volumes, not confine t' a Verſe;</l>
+                     <l>At's Conq'ring Feet the proſtrate <hi>Viſiers</hi> fall,</l>
+                     <l>Their Gaſping <hi>Empire</hi> dreads the <hi>General.</hi>
+                     </l>
+                     <l>Vanquiſht <hi>Seraskiers</hi> with their <hi>Legions</hi> run;</l>
+                     <l>Like <hi>Caeſar,</hi> where he <hi>came,</hi> the Day he <hi>won.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Here we muſt reſt, whilſt thou, my Muſe, doſt tell</l>
+                     <l>
+                        <hi>His</hi> Swords Exploits 'gainſt a greater <hi>Infidel.</hi>
+                     </l>
+                     <l>Leave the proud Banks of <hi>Danow</hi>'s famous Stream,</l>
+                     <l>Loaden with <hi>Trophies</hi> of the <hi>General</hi>'s Fame;</l>
+                     <l>And to the Fertile <hi>Rhine</hi> let's now advance,</l>
+                     <l>And view the Pannick Fear he brought on <hi>France;</hi>
+                     </l>
+                     <l>That worſer <hi>Turk,</hi> Tyrannick <hi>Monſter,</hi> who</l>
+                     <l>Conſcious, of plotting <hi>Europe</hi>'s Overthrow,</l>
+                     <l>'Twas now high time, his Injur'd <hi>Neighbours</hi> call,</l>
+                     <l>To come t' Account with their Great <hi>General:</hi>
+                     </l>
+                     <l>
+                        <hi>Lorraine</hi> he ſtole 'gainſt all pretence of Law,</l>
+                     <l>And Ravag'd <hi>Orange</hi> from the Brave <hi>Naſſaw,</hi>
+                     </l>
+                     <l>Encroacht on <hi>Spain,</hi> endeavoured to tear</l>
+                     <l>Th' <hi>Imperial Lawrel,</hi> on <hi>his</hi> Brows to wear</l>
+                     <l>
+                        <hi>Auguſtus</hi>'s Power, and with Sword and Fire</l>
+                     <l>Beyond his Bounds to ſtretch his Lewd Deſire;</l>
+                     <l>Till he had Planted utter Deſolation,</l>
+                     <l>And made his Neighbours like his <hi>Abject</hi> Nation:</l>
+                     <l>The Glorious <hi>LORRAIN</hi>'s choſe to Check his Pride,</l>
+                     <l>And force the <hi>Monſter</hi> in his Cave to hide:</l>
+                     <l>
+                        <hi>His</hi> well-taught Troops diſdain the <hi>Monſieur</hi>'s Arms.</l>
+                     <l>
+                        <hi>Monſieur,</hi> who Trembles at the Great Alarms:</l>
+                     <l>
+                        <hi>Monſieur,</hi> who ne'er durſt meet this <hi>Prince</hi> in Field,</l>
+                     <l>
+                        <hi>Poyſons,</hi> and <hi>Piſtols</hi> more than's Sword have kill'd;</l>
+                     <l>
+                        <hi>Inglorious Arts!</hi> Scorn'd by the <hi>Great</hi> and <hi>Brave,</hi>
+                     </l>
+                     <l>They ſeek not Man's <hi>Deſtruction,</hi> but to <hi>Save.</hi>
+                     </l>
+                     <l>In <hi>three</hi> Months time <hi>Monſieur</hi> had felt ſo much</l>
+                     <l>The Courage of th' <hi>Allies,</hi> 'twas time to touch</l>
+                     <l>On ſome Deſign might ſpoil the Next <hi>Campaine,</hi>
+                     </l>
+                     <l>And lay the dreaded <hi>General</hi> of <hi>Almaine:</hi>
+                     </l>
+                     <l>The Fortune of <hi>his Sword</hi> he juſtly Fears,</l>
+                     <l>And the Large Reckoning for <hi>old Arrears:</hi>
+                     </l>
+                     <l>'Tis done! The Mighty <hi>HERO</hi> that had Broke</l>
+                     <l>The Inſulting Power of the <hi>Turkiſh</hi> Yoake,</l>
+                     <l>Made the more Barbarous <hi>Frenchman</hi> Fear his <hi>Sword,</hi>
+                     </l>
+                     <l>Which daily Reapt more Lawrels for its <hi>Lord.</hi>
+                     </l>
+                     <l>The <hi>Empires</hi> Hope, the Darling of the <hi>League,</hi>
+                     </l>
+                     <l>Is fallen; not by <hi>Arms,</hi> but by <hi>Intrigue!</hi>
+                     </l>
+                     <l>Where were ye all ye <hi>Powers</hi> that attend</l>
+                     <l>On Virtuous Men, and are the <hi>HERO</hi>'s Friend?</l>
+                     <l>Could no Kind <hi>Genius</hi> Reſcue from his Fate</l>
+                     <l>The mighty <hi>Conqueror,</hi> and prolong his Date?</l>
+                     <l>But as <hi>Great Allexander,</hi> fell before,</l>
+                     <l>
+                        <hi>Loaden</hi> with <hi>Triumphs!</hi> So, <hi>whom</hi> We deplore:</l>
+                     <l>Whoſe Fate, not th' <hi>Empire,</hi> but all <hi>Europe</hi> Mourn;</l>
+                     <l>And ſhall on <hi>France</hi> the Treacherous <hi>Fact</hi> Return.</l>
+                  </lg>
+                  <lg>
+                     <l>You moſt Illuſtrious <hi>Hero's</hi> which ſurvive</l>
+                     <l>The Valiant <hi>LORRAINE,</hi> keep ſtill alive</l>
+                     <l>His Unmatcht <hi>Courage, Conduct, Conſtancy,</hi>
+                     </l>
+                     <l>And bear <hi>his</hi> Name up to <hi>Poſterity.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>May th' <hi>Auguſt Emperour,</hi> a New <hi>General</hi> find,</l>
+                     <l>Matching the Bravery of his <hi>Arm,</hi> and <hi>Mind:</hi>
+                     </l>
+                     <l>And the <hi>Leagu'd Princes</hi> ſuch ſucceſs Acquire</l>
+                     <l>As bears Proportion with their <hi>Juſt</hi> Deſire.</l>
+                     <l>May You <hi>French Lillies</hi> with Your <hi>Lawrels</hi> twine,</l>
+                     <l>And <hi>Victory</hi> with all Your <hi>Armies</hi> Join,</l>
+                     <l>'Till humbled <hi>Lewis</hi> find his <hi>Treaſons</hi> Vain;</l>
+                     <l>And <hi>LORRAIN</hi>'s Fortune to outlive <hi>LORRAINE.</hi>
+                     </l>
+                     <pb n="2" facs="tcp:181513:2"/>
+                     <l>Near twice Ten years, betruſted with Commands</l>
+                     <l>In Warlike Ships, in midſt of Armed Bands</l>
+                     <l>On all occaſions he his Country ſerv'd,</l>
+                     <l>And from the Poſt of danger never ſwerv'd;</l>
+                     <l>Always a Victor, and by Heaven's decree</l>
+                     <l>Preſerv'd till this his finall deſtiny.</l>
+                     <l>'Twas near th' <hi>Americ</hi> ſtrand when twice 12 days</l>
+                     <l>The Glorious Sun had guilded with his Rays</l>
+                     <l>Fair <hi>Maia</hi>'s boſome. In the Frigot <hi>Roſe</hi>
+                     </l>
+                     <l>Ploughing the Ocean to ſeek out his foes,</l>
+                     <l>And ſave his Convoy-Fleet, anon appears</l>
+                     <l>A Luſty <hi>French</hi> Ship, after her he ſtears.</l>
+                     <l>Twenty odd Guns on either ſide hawl'd out</l>
+                     <l>Seamen and Soldiers full four hundred ſtout.</l>
+                     <l>The <hi>Roſe</hi> a Fifth Rate, not full thirty Guns,</l>
+                     <l>Sixſcore brave Lads, burthen 3 hundred Tuns.</l>
+                     <l>And when in Call demands, whence your ſhip, hoy?</l>
+                     <l>The <hi>Frenchman</hi> cry'd, me tell you by and by</l>
+                     <l>Strike to the <hi>King of France</hi> then forthwith cry'd</l>
+                     <l>No, no, <hi>Monſieur,</hi> we'l firſt well bang your hide,</l>
+                     <l>Cry'd Valiant <hi>George,</hi> nor ſhall it e're be told</l>
+                     <l>To <hi>England</hi>'s King his Ship ſo cheap I ſold.</l>
+                     <l>Scarce ſaid, when thund'ring Eccho's pierce the sky</l>
+                     <l>From <hi>Engliſh</hi> Marriners, who <hi>French</hi> defy.</l>
+                     <l>Shrill Trumpets, and loud Drums do now Invite</l>
+                     <l>The dull and timorous to a bloody Fight:</l>
+                     <l>Then thundring Cannons mixt with Fire and ſmoak</l>
+                     <l>Send pondrous balls, piercing well-ſeaſon'd Oak,</l>
+                     <l>Which in their paſſage to the briny deeps</l>
+                     <l>Numbers of ſouls lull in Eternal ſleeps,</l>
+                     <l>From the Main-topps and quarter-Decks like hail</l>
+                     <l>In ſhowers of Lead, each other now aſſail:</l>
+                     <l>Now might you ſee the Rigging cut in twain</l>
+                     <l>And nimble fingers ſplicing it again.</l>
+                     <l>Ten thouſand ſplinters from all quarters fly,</l>
+                     <l>The ſayls hard Bullets pierce then paſs to th' sky:</l>
+                     <l>Some ſpunge the Guns, others dire powder bear,</l>
+                     <l>Loading with chain-ſhot is anothers care:</l>
+                     <l>All bent to kill, or take, or burn, or both,</l>
+                     <l>No Room is left for Cowardice or ſloath.</l>
+                     <pb n="3" facs="tcp:181513:2"/>
+                     <l>The Curled Enſigns now are cut in twain,</l>
+                     <l>Streight, daring Sailers put them up again.</l>
+                     <l>And now th'affrighted fiſhes from the Deep</l>
+                     <l>Their Scaly heads advancing up, do peep,</l>
+                     <l>Above the waves, diſpleas'd at ſuch diſtreſſes,</l>
+                     <l>Amaz'd, return to their unknown receſſes;</l>
+                     <l>Mean while the Combatants with clamours fill</l>
+                     <l>Heavens cieled Arch in crying out, kill, kill.</l>
+                     <l>Then dying groans, with ſhouts commixt are heard,</l>
+                     <l>And from the ſcoopers flowing blood appear'd.</l>
+                     <l>Thus for ſome time the ſucceſs doubtfull was,</l>
+                     <l>When from the Main-top (oh! wo and alas!)</l>
+                     <l>Some Common hand a Curſed ball did ſend,</l>
+                     <l>Which brought the Noble <hi>George</hi> unto his end:</l>
+                     <l>Fixt in his Breaſt, out goes his fleeting Soul,</l>
+                     <l>Whilſt in his hearts-blood, his pale Corps doth Rowl:</l>
+                     <l>Yet e're he went to the <hi>Elizium</hi> ſhade,</l>
+                     <l>To his next Friends breathing his laſt he ſaid,</l>
+                     <l>
+                        <hi>God bleſs you all, I dye,</hi> I'me ill all o're,</l>
+                     <l>You're in a good Cauſe, play the Men therefore.</l>
+                     <l>Stout <hi>Wiggoner</hi> the Ships chief Maſter fell,</l>
+                     <l>With ſundry more of whom if I ſhould tell,</l>
+                     <l>Too large would be the Theme, let it content</l>
+                     <l>I'th' Be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> of honour, they their dear lives ſpent.</l>
+                     <l>Here ſhould I end, ſalt tears bids ſtay my Pen,</l>
+                     <l>But Common Juſtice prompts me on again,</l>
+                     <l>To ſpeak of Valiant <hi>Condon,</hi> and his Merits,</l>
+                     <l>Since he the Captains place duly Inherits.</l>
+                     <l>The ſword ſtrait he advancing, doth cry out,</l>
+                     <l>Brave Lads fight on, we'le have the other bout.</l>
+                     <l>Your late Commander's dead <hi>(brave George)</hi> 'tis true,</l>
+                     <l>My life againſt the Foe I'le ſpend with you;</l>
+                     <l>Do but your parts, we'le make the <hi>Monſieur</hi> run,</l>
+                     <l>Or Roſt his hide, e're it be ſet of Sun.</l>
+                     <l>Freſh Courage now revives in every breaſt,</l>
+                     <l>Scorning to think of life or Intereſt:</l>
+                     <l>Near one hour more they thump't the <hi>Frenchmans</hi> hide,</l>
+                     <l>Such ſort of treatment he could not abide.</l>
+                     <l>His Firſt, and Second in our view did fall,</l>
+                     <l>His Ports were made as wide as door in Hall;</l>
+                     <pb n="4" facs="tcp:181513:3"/>
+                     <l>His Main-yard ſhot, his Men like Pidgeons fell,</l>
+                     <l>From the Main-top; In death's Embraces dwell</l>
+                     <l>Some hundreds more: for in our view we ſaw</l>
+                     <l>From bloudy decks they their dead Men did draw.</l>
+                     <l>But that the Poet may not Merit blame,</l>
+                     <l>For he (as well as others) hath ſome ſhame.</l>
+                     <l>It muſt not be forgot how Valiant<note n="*" place="margin">Capt. <hi>Ben. Clark</hi> of <hi>Wappin</hi> in the <hi>Europian</hi> of <hi>London,</hi> a Maſt-Ship.</note> 
+                        <hi>Clark</hi>
+                     </l>
+                     <l>With his ten Guns did prove a gallant ſpark,</l>
+                     <l>And though deſired forth with to fall aſtern,</l>
+                     <l>And ſafe from blows himſelf no more concern</l>
+                     <l>In Bloudy Combat, ſcorn'd to be diſmay'd,</l>
+                     <l>Hawl up the Main-ſail to his Men he ſaid,</l>
+                     <l>And from the quarter-Deck waving on high</l>
+                     <l>His glittering ſword the <hi>Frenchman</hi> did defy:</l>
+                     <l>Come if you dare (he cry'd) we're ready for ye,</l>
+                     <l>We'le bang your Jacket, or I ſhould be ſorry.</l>
+                     <l>Stand by your Guns, it never ſhall be told</l>
+                     <l>To my diſgrace in <hi>England</hi>—New—or old</l>
+                     <l>I fear'd a <hi>Frenchman,</hi> or would e're permit</l>
+                     <l>My Captain to be wrong'd I ſeeing it:</l>
+                     <l>Fire on his quarter, you will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ach him now,</l>
+                     <l>Place that great Gun exact againſt his Bough,</l>
+                     <l>Ply well your ſmall ſhot, let's do all we can,</l>
+                     <l>What is the leaſt, is not the worſt of man.</l>
+                     <l>Thus giving, and receiving on it goes,</l>
+                     <l>Till the poor <hi>Monſieur</hi> threſh'd with heavy blows</l>
+                     <l>Found he'de too much on't, ſtrait about he wheels,</l>
+                     <l>Finding his hands not half ſo good as heels.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>LONDON,</hi> Printed and ſold by moſt Bookſellers of <hi>London</hi> and <hi>Weſtminſter.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
